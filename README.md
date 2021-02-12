@@ -1,6 +1,6 @@
 # FullStack-Bank-application
 
-Live demo app:-fullstack-bank-app-surya.netlify.app open this link.
+Live demo app:- (fullstack-bank-app-surya.netlify.app).
  
 ## Connect to Postgresql Database
 
